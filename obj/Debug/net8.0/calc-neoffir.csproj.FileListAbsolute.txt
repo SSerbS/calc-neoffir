@@ -1,0 +1,15 @@
+C:\Users\playe\Documents\GitHub\calc-neoffir\bin\Debug\net8.0\calc-neoffir.exe
+C:\Users\playe\Documents\GitHub\calc-neoffir\bin\Debug\net8.0\calc-neoffir.deps.json
+C:\Users\playe\Documents\GitHub\calc-neoffir\bin\Debug\net8.0\calc-neoffir.runtimeconfig.json
+C:\Users\playe\Documents\GitHub\calc-neoffir\bin\Debug\net8.0\calc-neoffir.dll
+C:\Users\playe\Documents\GitHub\calc-neoffir\bin\Debug\net8.0\calc-neoffir.pdb
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.AssemblyInfoInputs.cache
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.AssemblyInfo.cs
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.csproj.CoreCompileInputs.cache
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.sourcelink.json
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.dll
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\refint\calc-neoffir.dll
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.pdb
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\calc-neoffir.genruntimeconfig.cache
+C:\Users\playe\Documents\GitHub\calc-neoffir\obj\Debug\net8.0\ref\calc-neoffir.dll
